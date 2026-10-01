@@ -20,7 +20,7 @@ Welcome to my doctoral research repository. This space showcases the software fr
 * **Core Contribution:** Fused Principal Component Analysis (PCA) for matrix dimensionality reduction with Linear Discriminant Analysis (LDA) to classify toxic dye contamination thresholds.
 
 ### 4. Regression Based Prediction of 1,8-Cineole Concentration in Large Indian Cardamom Using Near Infrared Spectroscopy
-* **Book Chapter:** Springer Publication (Published)
+* **Conference:** Springer Publication (Published)
 * **Core Contribution:** Evaluated dataset uniformity techniques using jitter-based augmentation and z-score scaling across samples harvested from six distinct agro-climatic zones.
 
 ---
